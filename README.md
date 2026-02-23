@@ -6,7 +6,7 @@ Este proyecto es una aplicación interactiva desarrollada con *Streamlit* que cu
 ### Contenido del Sistema:
 * *Ejercicio 1*: Validador de presupuesto simple.
 * *Ejercicio 2*: Registro de actividades usando listas y diccionarios.
-* *Ejercicio 3*: Cálculo de retornos mediante programación funcional (map y lambda).
+* *Ejercicio 3*: Cálculo de retornos mediante programación funcional.
 * *Ejercicio 4*: Análisis avanzado utilizando Programación Orientada a Objetos (POO).
 
 ### Cómo ejecutarlo localmente:
